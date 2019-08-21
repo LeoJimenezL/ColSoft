@@ -1,5 +1,5 @@
 
-package pruebacolsoft;
+package colsoft;
 
 public class Program {
 

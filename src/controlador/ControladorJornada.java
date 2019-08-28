@@ -9,6 +9,7 @@ package controlador;
  *
  * @author Estudiante
  */
-public class ControladorJornada {
+public class ControladorJornada 
+{
     
 }

@@ -16,7 +16,7 @@ public class ConectarBD
 {
     private Connection con;
     private String jdbcDriver ="com.mysql.jdbc.Driver";
-    private String databaseURL = "jdbc:mysql://localhost:3306/";
+    private String databaseURL = "jdbc:mysql://localhost:3306/colsoft?serverTimezone=UTC";
     private String user = "root";
     private String password = "";
     
